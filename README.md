@@ -11,11 +11,11 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [大语言模型的不确定性](https://blog.thatcoder.cn/ai/llm-Indeterminacy/)
 - [科艺知识库 ARM64](https://blog.thatcoder.cn/kykms-arm64/)
 - [胶东半岛观察](https://blog.thatcoder.cn/daily/Jiaodong-Peninsula/)
 - [海光 K100 DCU VLLM 推理环境构建](https://blog.thatcoder.cn/ai/hygon-vllm/)
 - [博客多平台负载均衡方案](https://blog.thatcoder.cn/Blog-Load-Balance/)
-- [浅谈RAG](https://blog.thatcoder.cn/ai/RAG/)
 <!-- BLOG-POST-LIST:END -->
 
 <div>&nbsp;</div>
